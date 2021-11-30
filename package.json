@@ -36,6 +36,8 @@
     ]
   },
   "devDependencies": {
-    "firebase": "^8.8.0"
+    "firebase": "^8.8.0",
+    "react-router-dom": "^6.0.2",
+    "styled-components": "^5.3.3"
   }
 }
